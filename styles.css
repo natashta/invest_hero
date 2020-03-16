@@ -21,7 +21,7 @@ h4.bonus {font-size: 22px; font-weight: 600; text-transform: uppercase; color: r
 /*Фоны к хедеру, эбаут и тим*/
 .header {
     position: relative;
-    height: 100vh;
+    min-height: 60vh;
     background-color: #323232;
     color: white;
     background-image: url(img/head-hero.jpg);
@@ -593,7 +593,7 @@ ul.law-links {
     .header {background-image: url(img/hero-mob.jpg); background-size: contain;}
     .btn-head {text-align: center;}
 
-    .features div {width: 60%; padding: 20px;}
+    .features div {width: 80%; padding: 20px;}
     .features h4 {padding-top: 10px; padding-bottom: 10px;}
     #feedback {padding-bottom: 20px;}
 
@@ -610,6 +610,4 @@ ul.law-links {
     .bonus-wrap div {display: -webkit-box;display: -ms-flexbox;display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; padding-right: 5px; padding-left: 5px; width: 100%;}
     h4.bonus {padding-top: 0px; font-size: 18px;}
 
-    /*.about .about-width, #team .about-width {left: 20px;}*/
- 
-}
+ }
