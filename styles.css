@@ -21,7 +21,7 @@ h4.bonus {font-size: 22px; font-weight: 600; text-transform: uppercase; color: r
 /*Фоны к хедеру, эбаут и тим*/
 .header {
     position: relative;
-    min-height: 60vh;
+    min-height: 80vh;
     background-color: #323232;
     color: white;
     background-image: url(img/head-hero.jpg);
