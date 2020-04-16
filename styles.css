@@ -83,7 +83,7 @@ h4.bonus {font-size: 22px; font-weight: 600; text-transform: uppercase; color: r
     line-height: 1.2;
 }
 
-.content-wrapper {max-width: 1180px; margin: 0 auto;}
+.content-wrapper {max-width: 1180px; margin: 0 auto; width: 100%;}
 
 .above-wrap {
     position: relative; 
