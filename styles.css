@@ -30,6 +30,7 @@ h4.bonus {font-size: 22px; font-weight: 600; text-transform: uppercase; color: r
     background-size: contain;
     display: flex;
     align-items: flex-end;
+    justify-content: flex-start;
 }
 
 .header .button {margin-top: 50px;}
