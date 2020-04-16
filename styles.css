@@ -27,6 +27,9 @@ h4.bonus {font-size: 22px; font-weight: 600; text-transform: uppercase; color: r
     background-image: url(img/head-hero.jpg);
     background-repeat: no-repeat;
     background-position:top right ;
+    background-size: contain;
+    display: flex;
+    align-items: flex-end;
 }
 
 .header .button {margin-top: 50px;}
@@ -84,7 +87,7 @@ h4.bonus {font-size: 22px; font-weight: 600; text-transform: uppercase; color: r
 .above-wrap {
     position: relative; 
     z-index: 1;
-    /*padding-top: 120px;*/
+    padding-bottom: 100px;
 }
 
 .hero-img-wrap {
