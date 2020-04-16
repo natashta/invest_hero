@@ -87,7 +87,6 @@ h4.bonus {font-size: 22px; font-weight: 600; text-transform: uppercase; color: r
 
 .above-wrap {
     position: relative; 
-    z-index: 1;
     padding-bottom: 100px;
 }
 
